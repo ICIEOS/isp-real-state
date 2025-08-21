@@ -59,9 +59,6 @@ const HomeOne = () => {
                 {/* Video Popup */}
                 <VideoPopup/>
 
-                {/* Counter */}
-                <Counter/>
-
                 {/* Message */}
                 <Message/>
 

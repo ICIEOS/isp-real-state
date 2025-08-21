@@ -4,9 +4,9 @@ import React from 'react';
 import BannerImg from '../../../public/assets/images/thumbs/banner-img.png'; 
 export const bannerContent = {
     subtitle: 'FinTech Fusion',
-    title: 'Invest today in You ',
+    title: 'Start Your Journey to Your Dream Home Today',
     gradientTitle: 'Dream Home',
-    desc: 'Unlock the Power of Real Estate Making Your Real Estate Dreams a Reality Real Estate here Unlock the Power of Real Estate',
+    desc: "Unlock the Potential of Real Estate and Transform Your Dreams into Reality. Whether you're buying your first home or investing in property, we are here to guide you every step of the way. Make your real estate goals a reality with the right support and resources.",
     thumb: BannerImg
 }
 
@@ -39,7 +39,7 @@ export const aboutContent = {
     thumb: aboutContentThumb,
     icon: aboutContentIcon,
     title: 'Your Dream Home Awaits',
-    desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties'
+    desc: "We specialize in providing seamless real estate experiences, helping you find the perfect property. Whether you're looking to buy, sell, or rent, we offer a wide range of residential, commercial, and industrial properties."
 }
 
 
@@ -62,8 +62,8 @@ export const properties = [
         thumb: propertyThumb1,
         price: '$300.00',
         day: '/per day',
-        title: 'Turning Dreams into Addresses Home State ',
-        desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
+        title: 'Modern Elegance in the Heart of the City',
+        desc: 'A perfect blend of contemporary design and luxurious comfort. This stunning residence offers spacious interiors, sleek architecture, and a sophisticated lifestyle.',
         locationIcon: <i className="fas fa-map-marker-alt"></i>,
         location: '66 Broklyant, New York America',
         amenities: [
@@ -87,8 +87,8 @@ export const properties = [
         thumb: propertyThumb2,
         price: '$450.00',
         day: '/per day',
-        title: 'Your journey home ownership starts here too ',
-        desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
+        title: 'Minimalist Masterpiece with Panoramic Views',
+        desc: 'Experience the beauty of simplicity with this architecturally designed home, featuring clean lines, floor-to-ceiling windows, and breathtaking natural surroundings.',
         locationIcon: <i className="fas fa-map-marker-alt"></i>,
         location: '66 Broklyant, New York America',
         amenities: [
@@ -112,8 +112,8 @@ export const properties = [
         thumb: propertyThumb3,
         price: '$500.00',
         day: '/per day',
-        title: 'Opening Doors to Your Dreams For Living ',
-        desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
+        title: 'Urban Luxury Meets Contemporary Charm',
+        desc: 'This stylish, modern home is crafted for those who appreciate high-end finishes, open-plan living, and a seamless indoor-outdoor experience.',
         locationIcon: <i className="fas fa-map-marker-alt"></i>,
         location: '66 Broklyant, New York America',
         amenities: [
@@ -137,8 +137,8 @@ export const properties = [
         thumb: propertyThumb4,
         price: '$600.00',
         day: '/per day',
-        title: 'Home is Where Your Story Begins ',
-        desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
+        title: 'Resort-Style Living with a Private Pool',
+        desc: 'Enjoy the ultimate retreat with this breathtaking property, complete with an expansive poolside lounge, sleek interiors, and unmatched tranquility.',
         locationIcon: <i className="fas fa-map-marker-alt"></i>,
         location: '66 Broklyant, New York America',
         amenities: [
@@ -162,8 +162,8 @@ export const properties = [
         thumb: propertyThumb5,
         price: '$650.00',
         day: '/per day',
-        title: 'Building Trust, One Home at a Time',
-        desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
+        title: 'Nature-Inspired Architectural Beauty',
+        desc: 'Set amidst lush greenery, this home offers a perfect balance of modern design and natural elements, creating a peaceful sanctuary for you and your family.',
         locationIcon: <i className="fas fa-map-marker-alt"></i>,
         location: '66 Broklyant, New York America',
         amenities: [
@@ -187,8 +187,8 @@ export const properties = [
         thumb: propertyThumb6,
         price: '$700.00',
         day: '/per day',
-        title: 'Brick by Brick Your Dream Home Awaits ',
-        desc: 'Real Estate is a vast industry that deals with the buying, selling, and renting of properties. It inv transactions related to residential, commercial, and industrial properties. Aliquam eros justo, posuere loborti viverra laoreet matti ullamcorper posuere viverra .Aliquam eros justo, posuere lobortis viverra laoreet augue mattis fmentum ullamcorper viverra laoreet Aliquam eros justo, posuere lobor mattis fmentum ullam',
+        title: 'Seaside Serenity with Unparalleled Views',
+        desc: 'Wake up to mesmerizing oceanfront scenery in this luxurious coastal property, designed to blend seamlessly with its stunning surroundings.',
         locationIcon: <i className="fas fa-map-marker-alt"></i>,
         location: '66 Broklyant, New York America',
         amenities: [
@@ -367,18 +367,18 @@ import propertyTypeIcon3 from '../../../public/assets/images/icons/property-type
 export const propertyTypes = [ 
     {
         icon: propertyTypeIcon1,
-        title: 'Seamless Solutions Your Success ',
-        desc: 'Customer satisfaction is crucial for amohlodi business as it leads to customer loyalty loves positive word'
+        title: 'Expert Guidance & Market Insights',
+        desc: 'Our team of experienced professionals provides in-depth market analysis, expert advice, and personalized support to help you make informed real estate decisions.'
     },
     {
         icon: propertyTypeIcon2,
-        title: 'Proactive Realty Services ',
-        desc: 'Customer satisfaction is crucial for amohlodi business as it leads to customer loyalty loves positive word'
+        title: 'Wide Range of Properties',
+        desc: "Whether you're looking for a cozy home, a commercial space, or an investment opportunity, we offer a diverse selection of properties to match your needs and budget."
     },
     {
         icon: propertyTypeIcon3,
-        title: 'Supreme Home Finders',
-        desc: 'Customer satisfaction is crucial for amohlodi business as it leads to customer loyalty loves positive word'
+        title: 'Seamless & Hassle-Free Process',
+        desc: 'From property search to final paperwork, we handle every step with transparency and efficiency, ensuring a smooth and stress-free experience.'
     },
 ]
 
@@ -441,15 +441,27 @@ export const portfolios = [
 import quoteIcon from '../../../public/assets/images/icons/quote.svg';
 export const testimonials = [
     {
-        name: 'Sakib Fahad',
-        designation: 'Content Creator',
-        desc: 'Their product exceeded his my routi  expectations. The the quality and attention to detail a the a moutstanding and it has become an essential most a education the a man who can do tant clearly', 
+        name: 'Emma R',
+        designation: 'A Seamless Home-Buying Experience!',
+        desc: 'From start to finish, the team made my home-buying journey effortless. Their expertise, attention to detail, and dedication helped me find my dream home. Highly recommended!', 
         quote: quoteIcon
     },
     {
-        name: 'John Doe',
-        designation: 'Frontend Developer',
-        desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, autem! Consectetur illo tempora sed repudiandae eaque velit expedita, ipsa earum explicabo libero, voluptatibus aliquid odio', 
+        name: 'James M',
+        designation: 'Professional and Trustworthy Service!',
+        desc: 'I was looking for a reliable property management company, and Prestige Property Management exceeded my expectations. They handled everything with transparency and professionalism!', 
+        quote: quoteIcon
+    },
+    {
+        name: 'Sophia L',
+        designation: 'Found My Perfect Investment Property!',
+        desc: 'Thanks to their market knowledge and expert advice, I made a smart investment in real estate. Their team guided me every step of the way!', 
+        quote: quoteIcon
+    },
+    {
+        name: 'Michael T',
+        designation: 'Luxury, Comfort, and Convenience!',
+        desc: 'The selection of properties was outstanding! They truly understand what clients are looking for. My new home is everything I dreamed of!', 
         quote: quoteIcon
     },
 ]
@@ -477,8 +489,8 @@ export const blogs = [
                 text: 'Comments (30)'
             },
         ],
-        title: 'Discover Endless Possibilities in Real Estate Live Your Best Life',
-        desc: 'Real estate is a lucrative industry that involves the buying, selling, and renting of properties. It encompasses residential, commercial, and industrial properties. Real estate agents play a crucial role in facilitating transactions and helping.',
+        title: 'Luxury Living Redefined',
+        desc: 'Experience sophistication and comfort in this breathtaking modern villa. Featuring stunning architecture, expansive living spaces, and a private pool, this home is designed for those who seek elegance and relaxation.',
         linkText: 'Read More',
     },
     {
@@ -496,8 +508,8 @@ export const blogs = [
                 text: 'Comments (50)'
             },
         ],
-        title: 'Turn Your Real Estate Dreams Into Reality Embrace the Real Estate',
-        desc: 'Real estate is a lucrative industry that involves the buying, selling, and renting of properties. It encompasses residential, commercial, and industrial properties. Real estate agents play a crucial role in facilitating transactions and helping.',
+        title: 'Contemporary Elegance in Nature’s Embrace',
+        desc: 'Nestled in a lush green environment, this stylish home offers a perfect blend of modern design and natural beauty. Spacious balconies, open floor plans, and premium finishes create an inviting atmosphere.',
         linkText: 'Read More',
     },
     {
@@ -514,8 +526,8 @@ export const blogs = [
                 text: 'Comments (10)'
             },
         ],
-        title: 'Your Journey to Home Ownership Starts Here: The Satisfaction',
-        desc: 'Real estate is a lucrative industry that involves the buying, selling, and renting of properties. It encompasses residential, commercial, and industrial properties. Real estate agents play a crucial role in facilitating transactions and helping.',
+        title: 'A Modern Masterpiece for Urban Living',
+        desc: 'Discover a stunning blend of luxury and convenience with this sleek contemporary residence. Designed for city dwellers who crave style and functionality, this property is a perfect fit for modern lifestyles.',
         linkText: 'Read More',
     },
     {

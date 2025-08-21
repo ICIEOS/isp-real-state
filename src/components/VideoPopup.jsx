@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const VideoPopup = () => {
     return (
         <>
-            <div className="video-popup ">
+            <div className="video-popup padding-b-120">
                 <div className="container container-two">
                     <div className="video-popup__thumb">
                         <img src="assets/images/thumbs/video-popup.png" alt="" className="cover-img"/>
